@@ -1,5 +1,4 @@
-# Please, do not use this to spam requests to either Discord or Replit, for they both are seeming to struggle with this.
-
+## Original Link: https://github.com/User9684/stupid-discord-badge
 ## I hate Discord so I made this
 <b> **Please consider reading the [FAQ](./faq.md) before opening issues.**
 
