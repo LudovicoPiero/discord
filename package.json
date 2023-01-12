@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/User9684/stupid-discord-badge/issues"
   },
-  "homepage": "https://github.com/User9684/stupid-discord-badge#readme"
+  "homepage": "https://github.com/User9684/stupid-discord-badge#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
 }
