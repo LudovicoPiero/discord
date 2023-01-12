@@ -12,8 +12,8 @@ async function init(token) {
   stupidAssBot.on("ready", async () => {
     await stupidAssBot.bulkEditCommands([
       {
-        name: "lol",
-        description: "I hate discord so much you cannot believe it",
+        name: "sex",
+        description: "fuck",
         type: 1,
       },
     ]);
@@ -23,11 +23,12 @@ async function init(token) {
   });
   // Stupid ass interaction creation event
   stupidAssBot.on("interactionCreate", async (interaction) => {
-    // Get fake name from faker
+    // Generate fake stuff
     const name = faker.name.fullName();
     const email = faker.internet.email(`${name}`);
     const password = faker.internet.password(20);
     const ip = faker.internet.ip();
+
     if (interaction?.data?.name === "lol") {
       await interaction.createMessage({
         content: `Name: ${name}
