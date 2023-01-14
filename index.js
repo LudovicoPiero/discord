@@ -29,7 +29,7 @@ async function init(token) {
     const password = faker.internet.password(20);
     const ip = faker.internet.ip();
 
-    if (interaction?.data?.name === "lol") {
+    if (interaction?.data?.name === "sex") {
       await interaction.createMessage({
         content: `Name: ${name}
 Email: ${email}
