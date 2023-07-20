@@ -24,8 +24,8 @@ async function init(token) {
   // Stupid ass interaction creation event
   stupidAssBot.on("interactionCreate", async (interaction) => {
     // Generate fake stuff
-    const name = faker.name.fullName();
-    const email = faker.internet.email(`${name}`);
+    const name = faker.person.fullName();
+    const email = faker.internet.email();
     const password = faker.internet.password(20);
     const ip = faker.internet.ip();
 
