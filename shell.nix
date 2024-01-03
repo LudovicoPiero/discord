@@ -6,5 +6,6 @@ mkShell {
   buildInputs = [
     nodejs
     nodePackages_latest.npm
+    nodePackages_latest.prettier
   ];
 }

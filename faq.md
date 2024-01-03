@@ -1,4 +1,5 @@
 # Frequently asked questions!
+
 - **Q:** Why do you hate Discord?
 - It's a joke.
 - **Q:** How do I run the bot 24/7?
