@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "eris": "^0.17.1"
+    "eris": "^0.18.0"
   },
   "name": "stupid-discord-badge",
   "version": "1.0.0",
