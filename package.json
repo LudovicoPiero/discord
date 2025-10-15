@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/User9684/stupid-discord-badge#readme",
   "devDependencies": {
-    "@faker-js/faker": "^9.1.0"
+    "@faker-js/faker": "^10.1.0"
   }
 }
